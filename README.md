@@ -1,5 +1,6 @@
 # Escolas-SP
 Construção de mapas com as escolas do município de São Paulo
+O tamanho dos círculos representa o número de alunos na escola (1 aluno = 1 metro)
 
 Dados Utilizados:
 
